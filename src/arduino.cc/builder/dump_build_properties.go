@@ -30,9 +30,9 @@
 package builder
 
 import (
-	"arduino.cc/builder/types"
-	"arduino.cc/builder/utils"
 	"fmt"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/types"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/utils"
 	"sort"
 )
 

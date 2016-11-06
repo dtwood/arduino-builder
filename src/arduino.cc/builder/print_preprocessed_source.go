@@ -30,8 +30,8 @@
 package builder
 
 import (
-	"arduino.cc/builder/types"
 	"fmt"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/types"
 )
 
 type PrintPreprocessedSource struct{}

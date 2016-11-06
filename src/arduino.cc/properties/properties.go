@@ -37,8 +37,8 @@ import (
 	"runtime"
 	"strings"
 
-	"arduino.cc/builder/constants"
-	"arduino.cc/builder/i18n"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/constants"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/i18n"
 
 	"github.com/go-errors/errors"
 )

@@ -3,8 +3,8 @@ package types
 import (
 	"strings"
 
-	"arduino.cc/builder/i18n"
-	"arduino.cc/properties"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/i18n"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/properties"
 )
 
 // Context structure

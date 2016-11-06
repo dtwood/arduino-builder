@@ -35,11 +35,11 @@ import (
 	"strings"
 	"time"
 
-	"arduino.cc/builder/constants"
-	"arduino.cc/builder/types"
-	"arduino.cc/builder/utils"
-	"arduino.cc/properties"
-	"arduino.cc/timeutils"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/constants"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/types"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/utils"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/properties"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/timeutils"
 )
 
 type SetupBuildProperties struct{}

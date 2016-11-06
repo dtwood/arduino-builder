@@ -40,12 +40,12 @@ import (
 	"strings"
 	"syscall"
 
-	"arduino.cc/builder"
-	"arduino.cc/builder/gohasissues"
-	"arduino.cc/builder/i18n"
-	"arduino.cc/builder/types"
-	"arduino.cc/builder/utils"
-	"arduino.cc/properties"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/gohasissues"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/i18n"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/types"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/utils"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/properties"
 	"github.com/go-errors/errors"
 )
 

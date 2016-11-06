@@ -37,10 +37,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"arduino.cc/builder/constants"
-	"arduino.cc/builder/i18n"
-	"arduino.cc/builder/utils"
-	"arduino.cc/properties"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/constants"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/i18n"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/utils"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/properties"
 )
 
 func CompileFilesRecursive(objectFiles []string, sourcePath string, buildPath string, buildProperties properties.Map, includes []string, verbose bool, warningsLevel string, logger i18n.Logger) ([]string, error) {

@@ -30,8 +30,8 @@
 package builder
 
 import (
-	"arduino.cc/builder/constants"
-	"arduino.cc/builder/types"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/constants"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/types"
 	"os"
 	"strings"
 )

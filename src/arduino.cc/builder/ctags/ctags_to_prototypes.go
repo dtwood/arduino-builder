@@ -30,7 +30,7 @@
 package ctags
 
 import (
-	"arduino.cc/builder/types"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/types"
 	"strings"
 )
 

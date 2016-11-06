@@ -34,8 +34,8 @@ import (
 	"strconv"
 	"strings"
 
-	"arduino.cc/builder/types"
-	"arduino.cc/builder/utils"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/types"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/utils"
 )
 
 type FilterSketchSource struct {

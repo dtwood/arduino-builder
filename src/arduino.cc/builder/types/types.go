@@ -34,8 +34,8 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"arduino.cc/builder/constants"
-	"arduino.cc/properties"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/constants"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/properties"
 )
 
 type SourceFile struct {

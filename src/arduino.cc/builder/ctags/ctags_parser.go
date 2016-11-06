@@ -30,9 +30,9 @@
 package ctags
 
 import (
-	"arduino.cc/builder/constants"
-	"arduino.cc/builder/types"
 	"bufio"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/constants"
+	"github.com/dtwood/arduino-builder/src/arduino.cc/builder/types"
 	"os"
 	"reflect"
 	"runtime"
